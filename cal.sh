@@ -1,3 +1,3 @@
 #!/bin/bash
 sum='1+3'
-echo" addition of repo $sum "
+echo" Testing the commit addition of repo $sum "
